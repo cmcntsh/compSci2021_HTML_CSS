@@ -39,6 +39,8 @@ We're going to dive right in to learning some HTML and CSS. A lot of user interf
 
 ## Optional Material
 
+* The V School course seems a bit light sometimes. Here's another free course on Scrimba which may be useful. https://scrimba.com/learn/htmlcss (Links to an external site.)
+* This responsive CSS layout course is free. (You just need to sign up. It's pretty nicely done - what I've seen of it so far. It's set up to release a new lesson each day for 21 days, so it will take a while to get the whole thing.) https://courses.kevinpowell.co/conquering-responsive-layouts
 * If you want to understand what current front-end and back-end web development involves, I highly recommend you watch this video. I don't even know what some of the things he mentions are, but I like having the current overview. Web development like the rest of computing is a dynamic and ever-changing field. It's good to keep current in the areas you want to focus on. Web Development in 2021 - A Practical Guide (1 hour 5 min):
 https://www.youtube.com/watch?v=VfGW0Qiy2I0&t=429s
 * Some recent tutorials on HTML & CSS (These seem to hit the basics a bit more and go a bit slower.)
